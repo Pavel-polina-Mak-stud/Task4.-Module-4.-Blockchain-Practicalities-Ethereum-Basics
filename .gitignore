@@ -35,6 +35,9 @@
 /CLAUDE.md
 /ignition/deployments/
 
+# Keep the optional OP transaction example local
+/scripts/send-op-tx.ts
+
 # Hardhat coverage reports
 /coverage
 
