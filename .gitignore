@@ -1,0 +1,45 @@
+# Node modules
+/node_modules
+
+# Compilation output
+/dist
+
+# pnpm deploy output
+/bundle
+
+# Hardhat Build Artifacts
+/artifacts
+
+# Hardhat compilation (v2) support directory
+/cache
+
+# Typechain output
+/types
+
+# Environment files and credentials
+.env
+.env.*
+*.keystore
+*.keystore.json
+*.key
+*.pem
+*.p12
+*.pfx
+/keystore/
+/.hardhat/
+
+# Local assistant instructions and network-specific deployment state
+/.agents/
+/.claude/
+/AGENTS.md
+/CLAUDE.md
+/ignition/deployments/
+
+# Hardhat coverage reports
+/coverage
+
+# Gas snapshot files
+/.gas-snapshot
+
+# Snapshot cheatcodes output
+/snapshots
